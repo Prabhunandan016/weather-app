@@ -6,7 +6,7 @@ This web application is created using JavaScript, HTML and CSS.This web applicat
 
 - JavaScript
 - CSS & HTML
-- OpenWeather API
+- OpenWeather  API
 
 ### Live Demo link.
 
